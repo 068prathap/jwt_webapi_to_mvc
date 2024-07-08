@@ -1,0 +1,6 @@
+@JWTWebApiToMvc_HostAddress = http://localhost:5296
+
+GET {{JWTWebApiToMvc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
